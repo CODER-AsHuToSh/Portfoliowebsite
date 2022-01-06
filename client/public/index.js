@@ -32,7 +32,12 @@ $('.morebtn').click(function () {
     $('.hiddentext').toggle(500);
 });
 
-$('.btnpro').click(function () {
-    window.location.href = "https://github.com/";
-});
+// $('.btnpro').click(function () {
+//     window.location.href = "https://github.com/";
+// });
+
+// $('.btnpro').click(function () {
+//     window.location.href = "https://github.com/";
+// });
+
 
